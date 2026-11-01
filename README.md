@@ -1,3 +1,4 @@
+
 # CertiChain — Secure Digital Certificate Verification System
 
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black)](https://react.dev/)
@@ -325,3 +326,5 @@ npm run preview
 *Built as an academic Problem-Based Learning (PBL) mini project.*  
 
 Designed and developed to demonstrate practical applications of **cryptographic digests, simulated distributed ledgers, and full-stack cloud database integration**.
+=======
+# CertiChain 3edd8aeacf4f36bf4af6ab4d14eceabce724057c
